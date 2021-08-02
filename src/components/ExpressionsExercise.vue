@@ -9,7 +9,7 @@
             below:
           </p>
 
-          <p>{{}}</p>
+          <p>{{"Hello beautiful Vue    "+ 6*12 }}</p>
         </div>
         <div class="border p-1">
           <p>
